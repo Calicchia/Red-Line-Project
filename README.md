@@ -9,12 +9,14 @@ Hoe ik het nu zie, zou ik een startpagina willen met een:
 - contact informatie 
 - de categorieen
 - de ratingen en recentie
+
 Als je een categorie hebt gekozen ga je naar een andere pagina waar je alle schilderijen ((met foto, prijs en benaming) kan vinden van die categorie.
 Wanneer je op een schilderij drukt kom je op de volgende pagina, waar je weer een foto ziet van het schilderij met daaronder een beschrijving wat bij elk schilderij hetzelfde kan zijn zoals:
 - handgeschilderd
 - Uniek exemplaar
 - Kan direct aan de muur
 - 14 dagen retourrecht
+
 Een kleine beschrijving van het schilderij en de specificaties, dan de prijs met daaronder een bestelknop.
 Wanneer ze gaan afrekenen wil ik dat iedereen altijd zijn/haar gegevens moet ingeven en de optie registreren weg te laten vallen.
 De betaalmogelijkheden en voor het op te sturen moet ik bekijken.
